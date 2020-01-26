@@ -1,13 +1,13 @@
 {
 "response": [
 {
-"filename": "AospExtended-v6.7-lavender-20200101-2121-UNOFFICIAL.zip",
-"datetime": 1577913595,
-"size":787560905, 
-"url":"https://sourceforge.net/projects/lavender7/files/Aex/AospExtended-v6.7-lavender-20200101-2121-UNOFFICIAL.zip/download", 
+"filename": "AospExtended-v6.7-lavender-20200125-1429-UNOFFICIAL.zip",
+"datetime": 1579962482,
+"size":787049426, 
+"url":"https://sourceforge.net/projects/lavender7/files/Aex/AospExtended-v6.7-lavender-20200125-1429-UNOFFICIAL.zip/download", 
 "version": "6",
 "romtype": "unofficial", 
-"id": "f8d67568a119cb9ca9a452d8c7363ce1"
+"id": "ed4c74e0360251ba6f70627b82100d3c"
 }
 ]
 }
